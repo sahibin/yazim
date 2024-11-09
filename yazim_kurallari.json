@@ -1,0 +1,397 @@
+[
+  {
+    "text": "Akşam üstü, yörük köylüler ile birlikte ateşkırmızısı güneş batışını seyrettik.",
+    "errors": [
+      {
+        "word": "Akşam üstü",
+        "correct": "Akşamüstü",
+        "explanation": "Alt üst sözcükleri gerçek anlamı dışında kullanıldığında bitişik yazılır."
+      },
+      {
+        "word": "ateşkırmızısı",
+        "correct": "ateş kırmızısı",
+        "explanation": "Bilinmiyor."
+      }
+    ]
+  },
+  {
+    "text": "Her gün akşam yemeğinden sonra türk kahvesi içiyor, doğu karadeniz'in yaylalarını özlüyordu.",
+    "errors": [
+      {
+        "word": "türk",
+        "correct": "Türk",
+        "explanation": "Millet adı olduğu için büyük harfle başlar."
+      },
+      {
+        "word": "doğu karadeniz",
+        "correct": "Doğu Karadeniz",
+        "explanation": "Özel isim olduğu için her sözcük büyük harfle başlar."
+      },
+      {
+        "word": "karadeniz'in",
+        "correct": "Karadeniz'in",
+        "explanation": "Özel isim olduğu için büyük harfle başlar."
+      }
+    ]
+  },
+  {
+    "text": "Bugün saat 14.00 da prof. ahmet beyle görüşüp milli eğitim bakanlığı'na gideceğim.",
+    "errors": [
+      {
+        "word": "14.00 da",
+        "correct": "14.00'te",
+        "explanation": "Saat ifadesinden sonra gelen ek kesme işaretiyle ayrılır."
+      },
+      {
+        "word": "prof. ahmet bey",
+        "correct": "Prof. Ahmet Bey",
+        "explanation": "Unvan, özel isim ve saygı sözleri büyük harfle başlar."
+      },
+      {
+        "word": "milli eğitim bakanlığı",
+        "correct": "Millî Eğitim Bakanlığı",
+        "explanation": "Kurum adının her sözcüğü büyük harfle başlar."
+      }
+    ]
+  },
+  {
+    "text": "Hiç kimsenin bilemeyeceği birşey varki oda onun içindeki sevgidir.",
+    "errors": [
+      {
+        "word": "birşey",
+        "correct": "bir şey",
+        "explanation": "'Bir şey' her zaman ayrı yazılır."
+      },
+      {
+        "word": "varki",
+        "correct": "var ki",
+        "explanation": "Bağlaç olan 'ki' ayrı yazılır."
+      },
+      {
+        "word": "oda",
+        "correct": "o da",
+        "explanation": "Bağlaç olan 'da' ayrı yazılır."
+      }
+    ]
+  },
+  {
+    "text": "Hergün okula gider ken yan komşumuzun oğlu mehmet'te bize katılırdı.",
+    "errors": [
+      {
+        "word": "Hergün",
+        "correct": "Her gün",
+        "explanation": "'Her gün' ayrı yazılır."
+      },
+      {
+        "word": "gider ken",
+        "correct": "giderken",
+        "explanation": "'-ken' eki bitişik yazılır."
+      },
+      {
+        "word": "mehmet",
+        "correct": "Mehmet",
+        "explanation": "Özel isim büyük harfle başlar."
+      },
+      {
+        "word": "mehmet'te",
+        "correct": "Mehmet de",
+        "explanation": "Bağlaç olan 'de' ayrı yazılır."
+      }
+    ]
+  },
+  {
+    "text": "İç anadoluda ki hava durumu nedeni ile uçaklar kalkamıyormuş.",
+    "errors": [
+      {
+        "word": "anadoluda",
+        "correct": "Anadolu'da",
+        "explanation": "Özel ismin her sözcüğü büyük harfle başlar."
+      },
+      {
+        "word": "da ki",
+        "correct": "daki",
+        "explanation": "Bulunma durumu ekinden sonra gelen '-ki' bitişik yazılır."
+      },
+      {
+        "word": "nedeni ile",
+        "correct": "nedeniyle",
+        "explanation": "'Nedeniyle' bitişik yazılır çünkü kalıplaşmış bir sözcüktür."
+      }
+    ]
+  },
+  {
+    "text": "20 Temmuz 2023 perşembe günü saat 13.45 de istanbul'a gidip akşam üzeri dönecekmiş.",
+    "errors": [
+      {
+        "word": "perşembe",
+        "correct": "Perşembe",
+        "explanation": "Belirli bir tarihteki gün adı büyük harfle başlar."
+      },
+      {
+        "word": "13.45 de",
+        "correct": "13.45'te",
+        "explanation": "Saat ifadesinden sonra gelen ek kesme işaretiyle ayrılır ve okunuşa göre yazılır."
+      },
+      {
+        "word": "istanbul",
+        "correct": "İstanbul",
+        "explanation": "Özel isim büyük harfle başlar."
+      },
+      {
+        "word": "akşam üzeri",
+        "correct": "akşamüzeri",
+        "explanation": "Üst, alt, üzeri sözcükleri gerçek anlamı dışında kullanıldığında bitişik yazılır."
+      }
+    ]
+  },
+  {
+    "text": "Herşeyi bildiğini sanan baş hekim bey, türkdili ve edebiyatı dersine girmişti.",
+    "errors": [
+      {
+        "word": "Herşeyi",
+        "correct": "Her şeyi",
+        "explanation": "'Her şey' her zaman ayrı yazılır."
+      },
+      {
+        "word": "baş hekim",
+        "correct": "Başhekim",
+        "explanation": "'Başhekim' unvan olduğu için bitişik yazılır. Ad aktarması yoluyla özel ismin yerini tuttuğu için büyük harfle yazılır."
+      },
+      {
+        "word": "türkdili",
+        "correct": "Türk dili",
+        "explanation": "millet isimleri büyük harfle başlar. "
+      },
+      {
+        "word": "bey,",
+        "correct": "Bey,",
+        "explanation": "Özel isme bağlı ünvan lakap ve saygı bildiren sözcükler büyük harfle başlar."
+      }
+    ]
+  },
+  {
+    "text": "Van gölü kenarında ki yazı evinde şiir yazıyormuş, halbuki dinlenmesi gerekiyordu.",
+    "errors": [
+      {
+        "word": "Van gölü",
+        "correct": "Van Gölü",
+        "explanation": "Özel ismin her sözcüğü büyük harfle başlar."
+      },
+      {
+        "word": "kenarında ki",
+        "correct": "kenarındaki",
+        "explanation": "Bulunma durumu ekinden sonra gelen '-ki' bitişik yazılır."
+      },
+      {
+        "word": "yazı evi",
+        "correct": "yazıevi",
+        "explanation": "'Ev' ile kurulan bu tür birleşik sözcükler bitişik yazılır."
+      }
+    ]
+  },
+  {
+    "text": "Hafta sonu taksim meydanın'da gördüğüm külütmez adamı tanıdım.",
+    "errors": [
+      {
+        "word": "taksim meydanı",
+        "correct": "Taksim Meydanı",
+        "explanation": "Özel ismin her sözcüğü büyük harfle başlar."
+      },
+      {
+        "word": "meydanın'da",
+        "correct": "Meydanı'nda",
+        "explanation": "Özel isme gelen ekler kesme işaretiyle ayrılır ve doğru sırada yazılır."
+      },
+      {
+        "word": "külütmez",
+        "correct": "külyutmaz",
+        "explanation": "Deyim olan bu sözcüğün doğru yazımı 'külyutmaz' şeklindedir."
+      }
+    ]
+  },
+  {
+    "text": "Ankara kalesi'ne çıkıp yeşil soğan ve kara biber alalım.",
+    "errors": [
+      {
+        "word": "kalesi'ne",
+        "correct": "Ankara Kalesi'ne",
+        "explanation": "Özel ismin her sözcüğü büyük harfle başlar."
+      },
+      {
+        "word": "kara",
+        "correct": "karabiber",
+        "explanation": "karabiber bitişik yazılır."
+      },
+      {
+        "word": "biber",
+        "correct": "karabiber",
+        "explanation": "karabiber bitişik yazılır."
+      }
+    ]
+  },
+  {
+    "text": "Sabah ki yağmur nedeni ile ilk okula geç kaldı.",
+    "errors": [
+      {
+        "word": "Sabah ki",
+        "correct": "Sabahki",
+        "explanation": "Zaman bildiren '-ki' eki bitişik yazılır."
+      },
+      {
+        "word": "nedeni ile",
+        "correct": "nedeniyle",
+        "explanation": "'Nedeniyle' sözcüğü bitişik yazılır."
+      },
+      {
+        "word": "ilk okula",
+        "correct": "ilkokula",
+        "explanation": "Okul öncesinde gelen 'ilk' sözcüğü bitişik yazılır."
+      }
+    ]
+  },
+  {
+    "text": "Tv'de ki programı TDK'da çalışan prof. dr. Ahmet bey sunuyordu.",
+    "errors": [
+      {
+        "word": "Tv",
+        "correct": "TV",
+        "explanation": "Kısaltma büyük harflerle yazılır."
+      },
+      {
+        "word": "de ki",
+        "correct": "deki",
+        "explanation": "Bulunma hal ekinden sonra gelen '-ki' bitişik yazılır."
+      },
+      {
+        "word": "TDK'da",
+        "correct": "TDK'de",
+        "explanation": "Kısaltmaya gelen ek, sözcüğün okunuşuna göre getirilir."
+      },
+      {
+        "word": "prof. dr.",
+        "correct": "Prof. Dr.",
+        "explanation": "Unvanların her sözcüğü büyük harfle başlar."
+      },
+      {
+        "word": "bey",
+        "correct": "Bey",
+        "explanation": "Saygı sözleri büyük harfle başlar."
+      }
+    ]
+  },
+  {
+    "text": "23 mart 1987 de doğu anadolu'da ki evinde yazı yazıyormuş.",
+    "errors": [
+      {
+        "word": "mart",
+        "correct": "Mart",
+        "explanation": "Belirli bir tarihteki ay adı büyük harfle başlar."
+      },
+      {
+        "word": "1987 de",
+        "correct": "1987'de",
+        "explanation": "Sayılardan sonra gelen ekler kesme işaretiyle ayrılır."
+      },
+      {
+        "word": "doğu Anadolu'da",
+        "correct": "Doğu Anadolu'da",
+        "explanation": "Özel ismin her sözcüğü büyük harfle başlar."
+      },
+      {
+        "word": "da ki",
+        "correct": "daki",
+        "explanation": "Bulunma hal ekinden sonra gelen '-ki' bitişik yazılır."
+      }
+    ]
+  },
+  {
+    "text": "Hiç bir zaman gece yarısından sonra dışarı çıkmazdı ama bugün çıktı.",
+    "errors": [
+      {
+        "word": "Hiç bir",
+        "correct": "Hiçbir",
+        "explanation": "'Hiçbir' sözcüğü bitişik yazılır."
+      }
+    ]
+  },
+  {
+    "text": "Hafta içi sabah 08.00 da Türkiye Büyük Millet Meclisi'ne gidip, öğlen üzeri dönecekmiş.",
+    "errors": [
+      {
+        "word": "08.00 da",
+        "correct": "08.00'de",
+        "explanation": "Saat ifadesinden sonra gelen ek kesme işaretiyle ayrılır."
+      },
+      {
+        "word": "öğlen üzeri",
+        "correct": "öğlenüzeri",
+        "explanation": "Üst, alt, üzeri sözcükleri gerçek anlamı dışında kullanıldığında bitişik yazılır."
+      },
+      {
+        "word": "Meclisi'ne",
+        "correct": "Meclisine",
+        "explanation": "Kurum, kuruluş isimlerine getirilen çekim ekleri kesme işareti ile ayrılmaz."
+      }
+    ]
+  },
+  {
+    "text": "Denizyolu ile gelip hava alanında buluşacağız.",
+    "errors": [
+      {
+        "word": "Denizyolu",
+        "correct": "Deniz yolu",
+        "explanation": "Ayrı yazılır."
+      },
+      {
+        "word": "hava alanında",
+        "correct": "havaalanında",
+        "explanation": "Bu sözcük bitişik yazılır."
+      }
+    ]
+  },
+  {
+    "text": "Baş öğretmen hanım, Van'lı öğrencileri ziyaret etmişti.",
+    "errors": [
+      {
+        "word": "Baş öğretmen",
+        "correct": "Başöğretmen",
+        "explanation": "Unvan bildiren bu sözcük bitişik yazılır."
+      },
+      {
+        "word": "Van'lı",
+        "correct": "Vanlı",
+        "explanation": "Özel isme gelen yapım ekleri kesme işaretiyle ayrılmaz."
+      },
+      {
+        "word": "hanım,",
+        "correct": "Hanım,",
+        "explanation": "Özel isme bağlı ünvan, lakap ve saygı sözcükleri büyük harfle yazılır."
+      }
+    ]
+  },
+  {
+    "text": "Herkes ortadoğu'daki sorunları konuşuyordu.",
+    "errors": [
+      {
+        "word": "ortadoğu'daki",
+        "correct": "Orta Doğu'daki",
+        "explanation": "Özel ismin her sözcüğü büyük harfle başlar. Orta Doğu ayrı yazılır."
+      }
+    ]
+  },
+  {
+    "text": "İstanbul boğazı'nda yüzen gemi, kuzey doğu'ya doğru ilerliyordu.",
+    "errors": [
+      {
+        "word": "İstanbul boğazı'nda",
+        "correct": "İstanbul Boğazı'nda",
+        "explanation": "Özel ismin her sözcüğü büyük harfle başlar."
+      },
+      {
+        "word": "kuzey doğu'ya",
+        "correct": "kuzeydoğuya",
+        "explanation": "Ara yön bildiren bu sözcük bitişik yazılır."
+      }
+    ]
+  }
+]
